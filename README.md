@@ -1,1 +1,1 @@
-# Brain-Tumor-Segmentation-using-CNNn
+# Brain-Tumor-Segmentation-using-CNN
